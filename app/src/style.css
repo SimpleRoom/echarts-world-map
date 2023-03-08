@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+.main-wrap {
+  position: relative;
+  height: 100%;
+}
+.main-wrap {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden;
+}
+p {
+  color: #3a7fd5;
+  color: #F3B329;
+  color: #3a7fd5;
+  color: #0a53e9;
+  color: #092f8f;
+  color: #11eb11;
+  color: #006edd;
+  color: #eb9d8e;
+}
